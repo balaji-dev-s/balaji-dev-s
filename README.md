@@ -47,9 +47,5 @@ I enjoy building things for the web and learning by doing — projects, experime
 🧠 A web-based flashcard application for effective learning  
 🔗 https://github.com/balaji-dev-s/Smart-Flashcards
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-dev-s&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-dev-s&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=balaji-dev-s&theme=default)
 
