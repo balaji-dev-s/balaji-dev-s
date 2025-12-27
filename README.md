@@ -2,6 +2,8 @@
 
 🎓 **B.E. Electronics and Communication Engineering (ECE)**  
 📅 **Graduated in 2025**
+[![Email](https://img.shields.io/badge/Email-balajishanmugam1403@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajishanmugam1403@gmail.com)
+
 
 ## 👨‍💻 About Me
 I’m a 2025 ECE graduate currently transitioning into **Web Development and UI Development**.  
