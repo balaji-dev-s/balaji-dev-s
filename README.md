@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Balaji
 
 🎓 **B.E. Electronics and Communication Engineering (ECE)**  
-📅 **Graduated in 2025**
-[![Email](https://img.shields.io/badge/Email-balajishanmugam1403@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajishanmugam1403@gmail.com)
+📅 **Graduated in 2025**<br>
+📧 Email: [balajishanmugam1403@gmail.com](mailto:balajishanmugam1403@gmail.com)
 
 
 ## 👨‍💻 About Me
