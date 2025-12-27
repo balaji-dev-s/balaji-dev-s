@@ -7,3 +7,6 @@
 I’m a 2025 ECE graduate currently transitioning into **Web Development and UI Development**.  
 I enjoy building things for the web and learning by doing — projects, experiments, and real-world problem solving.
 
+**Skills:**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
