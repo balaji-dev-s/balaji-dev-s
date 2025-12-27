@@ -15,7 +15,7 @@ I enjoy building things for the web and learning by doing — projects, experime
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3><bold>Frameworks & Libraries</bold></h3>
+<h3>Frameworks & Libraries</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -40,3 +40,16 @@ I enjoy building things for the web and learning by doing — projects, experime
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+## 📌 Pinned Projects
+
+### 🔹 Smart Flashcards
+🧠 A web-based flashcard application for effective learning  
+🔗 https://github.com/balaji-dev-s/Smart-Flashcards
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-dev-s&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-dev-s&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=balaji-dev-s&theme=default)
+
