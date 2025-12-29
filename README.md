@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I’m a 2025 ECE graduate currently transitioning into **Web Development and UI Development**.  
-I enjoy building things for the web and learning by doing — projects, experiments, and real-world problem solving.
+I enjoy building things for the web and learning by doing — projects, experiments, and real-time projects.
 
 <h3>Languages</h3>
 
